@@ -1,2 +1,1 @@
-# BigDataAndAnalytics
-Ingeniería de Sistemas Big Data Analytics
+# pyspark-pos-analysis
