@@ -12,6 +12,12 @@ La solucion se encarga de contar los diferentes POS(Part of sppech) presentadas 
   + Retorna el POS para cada palabra
 Al finalizar muestra la cantidad de pos con su respectiva descripcion
 
+## Stack Tecnologico
++ Python
++ Jupyter Notebook
++ Spark
++ Hadoop
+
 ## Video 
 Video con la demostracion del funcionamiento de la solución
 - https://youtu.be/ZadT82FGxLo
